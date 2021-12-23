@@ -8,6 +8,14 @@ Watch the animation on YouTube: https://youtu.be/DPxOYOiDlzI
 
 &nbsp;
 
+## Examples
+### Comparison - Solid vs. Hollow
+Simulation and animation of two disks rolling down an inclined plane without slipping. One disk is solid and the other is hollow.
+
+Watch the animation on YouTube: https://youtu.be/ClZeX2RCjkg
+
+&nbsp;
+
 ## Model
 
 ![Model](https://www.dropbox.com/s/v7d5hti5kx3zp97/rolling_disk_inclined_model.png?raw=1)
